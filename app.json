@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "QR Scanner",
+    "slug": "Scanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon3.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon3.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.johnzkenth.Scanner"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "063a1659-3036-48aa-96a2-6471e5a63daa"
+      }
+    }
+  }
+}
